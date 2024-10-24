@@ -1,0 +1,16 @@
+baseURL = 'https://alwnraj.github.io'
+title = "Alwins Blog"
+author = "Alwin Rajkumar"
+theme = "contrast-hugo"
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "my blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10

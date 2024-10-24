@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alwins Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Alwins Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 19:23:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost2</title>
+      <link>http://localhost:1313/posts/mypost2/</link>
+      <pubDate>Wed, 23 Oct 2024 19:23:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mypost2/</guid>
+      <description>&lt;p&gt;hello there some more ocntents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This is a title</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Wed, 23 Oct 2024 18:28:54 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>&lt;h1 id=&#34;this-is-some-text&#34;&gt;This is some text&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;npm create-next-app&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
